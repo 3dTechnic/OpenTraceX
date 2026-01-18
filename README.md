@@ -20,7 +20,7 @@ So what are you waiting for?
 
 Obviously you want to build the **OpenTraceX** now but you're asking yourself how you can do that.
 
-Information on the software side of things is on Github (here). The 3D models are [on Makerworld](https://makerworld.com/de/@3dTechnic/upload).
+Information on the software side of things is on Github (here). The 3D models are [on Makerworld]([https://makerworld.com/de/@3dTechnic/upload](https://makerworld.com/de/models/2264438-opentracex-free-and-diy-version-of-shaper-trace#profileId-2467710)).
 
 If you have any questions, be quick to reach out in the comments on Makerworld and I'll try to help you as soon as I can.
 
