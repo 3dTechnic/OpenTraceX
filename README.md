@@ -52,6 +52,6 @@ To set it up for the first time, put all of those files into one folder.
 - If this doesn't work, switch the **pip** for **pip3**
 
 ### Now, you're almost ready to go.
-The project is ready to be turned on, you can turn it on by running **python flaskServer.py** or **python3 flaskServer.py** (whichever of these works without errors).
+The project is ready to be turned on, you can turn it on by running **python flask_server.py** or **python3 flask_server.py** (whichever of these works without errors).
 
 # If you have any questions, write them in the Makerworld Comments!
